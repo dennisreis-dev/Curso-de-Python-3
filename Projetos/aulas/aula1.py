@@ -3,7 +3,7 @@ DocString
 E escrever o que eu
 quiser
 
-Exercícios do curso - aula 1
+Exercícios do curso - aula 1, por exemplo
 
 """
 
@@ -13,3 +13,6 @@ Exercícios do curso - aula 1
 print(123)  # Na frente
 # Abaixo
 print(456)
+
+print (1+1)
+
