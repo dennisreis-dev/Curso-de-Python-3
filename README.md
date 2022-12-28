@@ -1,2 +1,2 @@
-# Curso-de-Python-3
-Curso de Python 3 do Básico Ao Avançado (com projetos reais) - Exercícios
+# Curso de Python 3
+Do básico ao avançado (com projetos reais) - Exercícios
