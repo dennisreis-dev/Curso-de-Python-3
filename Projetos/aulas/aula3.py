@@ -18,5 +18,5 @@ print(2, "Luiz 'Otávio'")
 # Escape
 print("Luiz \"Otávio\"")
 
-# r
+# r - utilizado   
 print(r"Luiz \"Otávio\"")
