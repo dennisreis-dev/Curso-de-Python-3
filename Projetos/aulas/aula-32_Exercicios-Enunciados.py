@@ -4,13 +4,14 @@ informe se este número é par ou ímpar. Caso o usuário não digite um número
 inteiro, informe que não é um número inteiro.
 """
 num_inteiro = input('Digite um numero inteiro:')
-if (f'{num_inteiro == int } and {num_inteiro == num_inteiro / 2}'):
+if (f'{num_inteiro} % 2' == 0):
     print('O numero digitado é par')
     
-# elif print('Seu numero é impar'):
+elif (f'{num_inteiro}' % 2 != 0):
+    print('Seu numero é impar')
 
-# else (f'{num_inteiro == float}')
-# print('O numero digitado, não é um numero inteiro')
+else: (f'{num_inteiro}' != int)
+print('O numero digitado, não é um numero inteiro') 
 
 """
 Faça um programa que pergunte a hora ao usuário e, baseando-se no horário 
